@@ -10,12 +10,9 @@
           icon="menu"
           aria-label="Menu"
         />
-
         <q-toolbar-title>
-          Quasar App
+          CAR ESTOQUE
         </q-toolbar-title>
-
-        <div>Quasar v{{ $q.version }}</div>
       </q-toolbar>
     </q-header>
 
